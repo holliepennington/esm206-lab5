@@ -139,3 +139,4 @@ H0: Mean city gas mileages for SUV and compact cars are the same
 t.test(compact_sample, suv_sample)
 ```
 
+There is a significant difference in mean city gas mileage for SUVs and compact cars (t(df)) = t-statistic, p < 0.001). 
